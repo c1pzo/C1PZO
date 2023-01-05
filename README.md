@@ -5,8 +5,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c1pzo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-##
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=c1pzo&icon=0&color=12)](https://visitcount.itsvg.in)
